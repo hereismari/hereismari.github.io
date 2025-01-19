@@ -26,13 +26,12 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+Working on applying SoTA AI research to solve real world problems. Interested in ML, education, music and anything in between.
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-
-```javascript
-(() => console.log('Hello, World!'))();
-```
+I'm currently a Research Engineer at DeepMind. Before that I was a contributor at ![](OpenMined) working on
+tools for federated learning and encrypted training.
+I received a bachelor degree in Computer Science
+at the <a href="https://pt.wikipedia.org/wiki/Universidade_Federal_de_Campina_Grande"> Federal University of Campina Grande</a> (2014 - 2019).
 
 ## Features
 
