@@ -1,5 +1,44 @@
 ---
-layout: home
-# articles:
-#   excerpt_type: html
+layout: article
+titles:
+  # @start locale config
+  en      : &EN       
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  pt-BR   :  PT       
+  # @end locale config
+key: page-index
 ---
+<!--- TODO: fix size of the image. -->
+<div class="card" style="max-width: 100rem;">
+  <div class="card__image">
+    <img class="image" src="/img/profile.jpg"/>
+  </div>
+</div>
+
+<!--- TODO: change to markdown, markdown="1" is not working.
+unfortunately for the paging to work the index needs to be an HTML file.-->
+<div style="text-align: justify; margin: 2em;">
+  <p>
+    I'm interested in <a href="" color="red">coding</a>, <a href="" >AI</a>, <a href="" >education</a>, <a href="" >music</a> and anything in between.
+  </p>
+
+  <p>
+    I'm currently based in London where I work as a Research Engineer at Google DeepMind. 
+    I received a bachelor degree in Computer Science at the <a href="https://pt.wikipedia.org/wiki/Universidade_Federal_de_Campina_Grande">Federal University of Campina Grande</a> (2014 - 2019).
+  </p>
+</div>
+
+<!-- TODO: expand this page 
+ 
+e.g. Before that I was a contributor at <a href="https://openmined.org/">OpenMined</a> working on tools for federated learning and encrypted training.</p>
+e.g. Internships, projects, etc.
+
+Colors:
+
+- Brown: #b97c32
+- Blue: #467499
+
+-->

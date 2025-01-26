@@ -27,7 +27,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Blog
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -49,4 +49,15 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: /blog.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Music
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /music.html
+

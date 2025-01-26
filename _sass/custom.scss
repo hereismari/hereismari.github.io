@@ -1,3 +1,32 @@
 /* start custom scss snippet */
 
+a:visited {
+    color: #467499
+}
+
+.root[data-is-touch="false"] a:hover {
+    color: #fca24d;
+}
+
+// .root[data-is-touch] .site-tags .tag-button-* {
+//     color: #fff;
+//     background-color: #fca24d;
+//     box-shadow: 0 0 0 2px rgba(252, 162, 77, 0.4);
+// }
+
+// .site-tags .tag-button-4, .site-tags .tag-button-4:link, .site-tags .tag-button-4:visited {
+//     color: #fff;
+//     background-color: #fca24d;
+// }
+
+.header {
+    background: white;
+    // background: #f7a236b0
+}
+
+.footer {
+    background: white;
+    // background: #f7a236b0
+}
+
 /* end custom scss snippet */
