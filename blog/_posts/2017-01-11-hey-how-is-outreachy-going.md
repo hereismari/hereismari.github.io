@@ -5,6 +5,7 @@ header-img:
 date: 2017-01-11
 tags: [Post, Outreachy, OpenStack, Sahara]
 layout: article
+category: pre_2017
 ---
 
 # Hey, How is Outreachy going?

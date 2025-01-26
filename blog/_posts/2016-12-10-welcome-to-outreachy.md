@@ -5,6 +5,7 @@ header-img: img/sky.jpg
 date: 2016-12-10
 tags: [Post, Outreachy]
 layout: article
+category: pre_2017
 ---
 
 # Welcome to Outreachy!

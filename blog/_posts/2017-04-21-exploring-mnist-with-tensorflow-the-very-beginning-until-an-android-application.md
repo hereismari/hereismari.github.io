@@ -6,6 +6,7 @@ header-img: img/tensorflow.png
 date: 2017-04-21
 tags: [Post, TensorFlow, DeepLearning]
 layout: article
+category: pre_2017
 ---
 
 # Exploring MNIST with TensorFlow, from the very beginning to an Android Application

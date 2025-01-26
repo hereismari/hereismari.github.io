@@ -5,6 +5,7 @@ header-img:
 date: 2017-01-17
 tags: [Post, Outreachy, OpenStack]
 layout: article
+category: pre_2017
 ---
 
 # A fast introduction to Mocking with Python

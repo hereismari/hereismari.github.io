@@ -5,6 +5,7 @@ header-img:
 date: 2016-06-13
 tags: [Post]
 layout: article
+category: pre_2017
 ---
 
 # Introduction to Apache Kafka in Portuguese

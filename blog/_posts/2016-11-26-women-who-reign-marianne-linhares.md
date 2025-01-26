@@ -5,6 +5,7 @@ header-img:
 date: 2016-11-26
 tags: [Post]
 layout: article
+category: pre_2017
 ---
 
 # Women Who Reign: Marianne Linhares

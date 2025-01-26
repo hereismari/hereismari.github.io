@@ -5,6 +5,7 @@ header-img:
 date: 2016-12-10
 tags: [Post, Outreachy, OpenStack]
 layout: article
+category: pre_2017
 ---
 
 # what is stevedore? and how is it related to Sahara?

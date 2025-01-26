@@ -13,6 +13,9 @@
 
 
 
+theme: jekyll-text-theme
+gems:
+  - jekyll-paginate-v2
 
 ## => Site Settings
 ##############################
@@ -39,16 +42,16 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : "mariannelinharesm@gmail.com"
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  github    : "hereismari" # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   twitter   : "hereismari" # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : "hereismari" # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -92,11 +95,25 @@ mermaid: # false (default), true
 ## Chart
 chart: # false (default), true
 
+# Produces a cleaner folder structure when using categories
+permalink: /:year/:month/:title.html
 
 ## => Paginate
 ##############################
+
+# Explicitly turn off the old code
 paginate: 15
-paginate_path: /page:num # don't change this unless for special need
+paginate_path: blog/page:num/
+
+# pagination:
+#   enabled: true
+#   per_page: 5
+#   permalink: 'blog/page/:num/'
+#   title: ' - page :num'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+
 
 
 ## => Sources

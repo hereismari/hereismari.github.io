@@ -5,6 +5,7 @@ header-img:
 date: 2017-02-13
 tags: [Post, Outreachy]
 layout: article
+category: pre_2017
 ---
 
 # About Outreachy

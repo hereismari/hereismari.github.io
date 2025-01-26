@@ -5,6 +5,7 @@ header-img: img/sky.jpg
 date: 2015-09-19
 tags: [Post]
 layout: article
+category: pre_2017
 ---
 
 # A graph? What is it?

@@ -5,6 +5,7 @@ header-img: img/sky2.jpg
 date: 2016-06-14
 tags: [Post]
 layout: article
+category: current
 ---
 
 # My first Chrome Extension - SpotifYoutube

@@ -5,6 +5,7 @@ header-img:
 date: 2016-06-14
 tags: [Post]
 layout: article
+category: pre_2017
 ---
 
 # Intro. to Hadoop and How to install Hadoop in Distributed mode - Portuguese

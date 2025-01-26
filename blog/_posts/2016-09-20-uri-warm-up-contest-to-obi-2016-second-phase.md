@@ -5,6 +5,7 @@ header-img:
 date: 2016-09-20
 tags: [Post]
 layout: article
+category: pre_2017
 ---
 
 # URI - Warm up Contest to OBI 2016 -second phase

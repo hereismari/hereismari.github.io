@@ -5,6 +5,7 @@ header-img:
 date: 2016-12-17
 tags: [Post, Outreachy, OpenStack, Sahara]
 layout: article
+category: pre_2017
 ---
 
 # Running Sahara Jobs with DevStack and OpenStack - Tutorial

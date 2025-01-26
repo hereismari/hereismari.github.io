@@ -5,6 +5,7 @@ header-img: img/sky2.jpg
 date: 2016-06-13
 tags: [Post]
 layout: article
+category: pre_2017
 ---
 
 # URI - Warm up Contest to OBI 2016 - first phase

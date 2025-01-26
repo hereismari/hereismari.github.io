@@ -1,0 +1,15 @@
+---
+layout: home
+list_title: "Old posts (<= 2017)"
+---
+
+<h2>{{ page.list_title | default: "Posts" }}</h2>
+<!-- TODO: make customizable? -->
+<table>
+    {% for post in site.categories.pre_2017 %}
+    <tr id="blog-table">
+    <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+    <td><a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+    </tr>
+    {% endfor %}
+</table>
