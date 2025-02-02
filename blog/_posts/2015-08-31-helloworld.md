@@ -6,6 +6,7 @@ date: 2015-08-31
 layout: article
 tags: [Post]
 header-img: img/tracks.jpg
+category: pre_2017
 ---
 
 Hello, My name is Marianne, currently I'm an undergraduate student of Computer

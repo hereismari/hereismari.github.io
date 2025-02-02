@@ -1,5 +1,18 @@
 /* start custom scss snippet */
 
+/* Fonts */
+
+h1, h2, h3, h4, h5, h6 {
+    font: 400 1.5em/1.5em "Lora Serif", Lora, serif;
+}
+
+a, p {
+    font: 400 1em/1.5em "Lora Serif", Lora, serif;
+    font-size: large;
+}
+
+
+/* Colors */
 a, a:link, a:visited {
     color: #467499
 }
@@ -36,6 +49,17 @@ a, a:link, a:visited {
 .coding-item img {
     width: 350px;
     height: 250px;
+}
+
+.coding-item h4, a, p {
+    font: 400 1rem/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif
+}
+
+.coding-item h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
 }
 
 

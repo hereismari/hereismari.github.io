@@ -1,16 +1,16 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN   Music   
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  pt-BR   :  PT       
-  # @end locale config
 key: page-music
 ---
+
+<head>
+  <style>
+    a, p {
+      font: 400 1rem/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif
+    }
+  </style>
+</head>
+
 ### ~/ Music 
 
 - **Instagram - @mariplaystuff**
