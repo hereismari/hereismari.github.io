@@ -8,6 +8,7 @@ tags: [Post, TensorFlow, DeepLearning, GANs]
 layout: article
 category: pre_2017
 comments: true
+key: gan-post
 ---
 
 GANs (Generative Adversarial Networks) are currently a very hot Deep Learning topic.
