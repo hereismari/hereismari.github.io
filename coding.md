@@ -41,7 +41,7 @@ layout: article
 
 <body>
 <div class="coding-item">
-    <img src="https://github.com/hereismari/tensorflow-maml/raw/master/imgs/maml_vs_nn.png" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/tensorflow-maml"><img src="https://github.com/hereismari/tensorflow-maml/raw/master/imgs/maml_vs_nn.png" style="float:left;"></a>
     <h4>MAML in TF 2.0</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="tensorflow-maml">Loading...</p>
@@ -54,7 +54,7 @@ layout: article
 </div>
 
 <div class="coding-item">
-    <img src="https://github.com/hereismari/playing-games-with-tfjs/raw/master/demo/demo_tetris1.gif" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/playing-games-with-tfjs"><img src="https://github.com/hereismari/playing-games-with-tfjs/raw/master/demo/demo_tetris1.gif" style="float:left;"></a>
     <h4>Playing a game using TF JS</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="playing-games-with-tfjs">Loading...</p>
@@ -67,12 +67,12 @@ layout: article
 </div>
 
 <div class="coding-item">
-    <img src="https://github.com/hereismari/tf-eager-text-generation/raw/master/utils/colors.png" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/tf-eager-text-generation"><img src="https://github.com/hereismari/tf-eager-text-generation/raw/master/utils/colors.png" style="float:left;"></a>
     <h4>Text generation with tf.eager</h4>
     <div class="github-info">
-        <p data-username="hereismari" data-repo="tensorflow-maml">Loading...</p>
-        <iframe src="https://ghbtns.com/github-btn.html?user=hereismari&repo=tensorflow-maml&type=star&count=true" frameborder="0" scrolling="0" class="github-link" title="GitHub"></iframe>
-        <iframe src="https://ghbtns.com/github-btn.html?user=hereismari&repo=tensorflow-maml&type=fork&count=true" frameborder="0" scrolling="0" class="github-link" title="GitHub"></iframe>
+        <p data-username="hereismari" data-repo="tf-eager-text-generation">Loading...</p>
+        <iframe src="https://ghbtns.com/github-btn.html?user=hereismari&repo=tf-eager-text-generation&type=star&count=true" frameborder="0" scrolling="0" class="github-link" title="GitHub"></iframe>
+        <iframe src="https://ghbtns.com/github-btn.html?user=hereismari&repo=tf-eager-text-generation&type=fork&count=true" frameborder="0" scrolling="0" class="github-link" title="GitHub"></iframe>
     </div>
     <div class="description">
         <p>Modified version of <a href='https://www.tensorflow.org/tutorials/sequences/text_generation'>TensorFlow tutorial about text generation</a>
@@ -81,7 +81,7 @@ layout: article
 </div>
 
  <div class="coding-item">
-    <img src="img/mnist-android.gif" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/mnist-android-tensorflow"><img src="img/mnist-android.gif" style="float:left;"></a>
     <h4>MNIST on Android</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="mnist-android-tensorflow">Loading...</p>
@@ -89,13 +89,13 @@ layout: article
         <iframe src="https://ghbtns.com/github-btn.html?user=hereismari&repo=mnist-android-tensorflow&type=fork&count=true" frameborder="0" scrolling="0" class="github-link" title="GitHub"></iframe>
     </div>
     <div class="description">
-        <p>A MNIST model ready to run on Android, including instructions about how to do it on your own.</p>
-        <p><a href="https://www.youtube.com/watch?v=kFWKdLOxykE&t=67s">This work was featured in a video from Siraj Raval</a>!!! The video has > 150k views!</p>
+        <p>A MNIST model ready to run on Android, including instructions about how to do it on your own.
+           <a href="https://www.youtube.com/watch?v=kFWKdLOxykE&t=67s">This work was featured in a video from Siraj Raval</a>!!! The video has > 150k views!</p>
     </div>
 </div>
 
 <div class="coding-item">
-    <img src="https://github.com/hereismari/easy21/raw/master/imgs/sarsa.gif" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/easy21"><img src="https://github.com/hereismari/easy21/raw/master/imgs/sarsa.gif" style="float:left;"></a>
     <h4>Easy 21 Assignment</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="easy21">Loading...</p>
@@ -108,7 +108,7 @@ layout: article
 </div>
 
 <div class="coding-item">
-    <img src="img/spotify-flask.png" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/spotify-flask"><img src="img/spotify-flask.png" style="float:left;"></a>
     <h4>Spotify-Flask</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="spotify-flask">Loading...</p>
@@ -121,7 +121,7 @@ layout: article
 </div>
 
 <div class="coding-item">
-    <img src="img/deep.png" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/DeepLearning"><img src="img/deep.png" style="float:left;"></a>
     <h4>Learning Deep Learning</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="DeepLearning">Loading...</p>
@@ -134,7 +134,7 @@ layout: article
 </div>
 
 <div class="coding-item">
-    <img src="img/uvacptracker.gif" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/UVaCPTracker"><img src="img/uvacptracker.gif" style="float:left;"></a>
     <h4>UVaCPTracker</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="UVaCPTracker">Loading...</p>
@@ -147,7 +147,7 @@ layout: article
 </div>
 
 <div class="coding-item">
-    <img src="img/spotifyoutube.gif" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/spotifyoutube"><img src="img/spotifyoutube.gif" style="float:left;"></a>
     <h4>SpotifYoutube</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="spotifyoutube">Loading...</p>
@@ -160,7 +160,7 @@ layout: article
 </div>
 
 <div class="coding-item">
-    <img src="img/a2ojascsv.png" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/a2oj-as-csv"><img src="img/a2ojascsv.png" style="float:left;"></a>
     <h4>A2OJ as CSV</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="a2oj-as-csv">Loading...</p>
@@ -173,7 +173,7 @@ layout: article
 </div>
 
 <div class="coding-item">
-    <img src="img/cp.jpg" class="circle.shadow" style="float:left;">
+    <a href="https://github.com/hereismari/Programming"><img src="img/cp.jpg" style="float:left;"></a>
     <h4>Algorithms for Competitive Programming</h4>
     <div class="github-info">
         <p data-username="hereismari" data-repo="Programming">Loading...</p>
