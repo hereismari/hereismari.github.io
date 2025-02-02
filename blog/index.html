@@ -1,7 +1,23 @@
 ---
-layout: home
-title: "Blog"
-<!-- pagination: 
-  enabled: true
-  category: current -->
+layout: article
 ---
+
+
+<!-- I don't know why but this fixes the layout :shrug:-->
+<div class="layout--article">
+  {%- include article-list.html -%}
+</div>
+
+
+
+<h2>{{ page.list_title | default: "Posts" }}</h2>
+<table>
+    {% for post in site.categories.current %}
+    <tr id="blog-table">
+    <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+    <td><a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+    </tr>
+    {% endfor %}
+</table>
+
+<p>You can see my old posts while I was an undergrad <a src="/blog-pre-2017.html">here</a></p>

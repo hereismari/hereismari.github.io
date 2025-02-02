@@ -1,12 +1,43 @@
 /* start custom scss snippet */
 
-a:visited {
+a, a:link, a:visited {
+    color: #467499
+}
+
+.header a, .header a:link, .header a:visited {
+    color: black;
+}
+
+.header a:hover {
     color: #467499
 }
 
 .root[data-is-touch="false"] a:hover {
     color: #fca24d;
 }
+
+.github-link {
+    height: 25px;
+    width: 10%;
+}
+
+.coding-item h4 {
+    margin-bottom: 0;
+}
+.github-info p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.coding-item {
+    min-height: 20em;
+    overflow: hidden;
+}
+
+.coding-item img {
+    width: 350px;
+    height: 250px;
+}
+
 
 // .root[data-is-touch] .site-tags .tag-button-* {
 //     color: #fff;
