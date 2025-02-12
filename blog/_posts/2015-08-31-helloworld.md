@@ -20,3 +20,21 @@ Science at UFCG. I'm starting this blog with the following goals:
 
 That's it I guess... With the time the blog is going to be better defined.
 I Hope this can be an awesome experience for me and for you! Have a nice day!
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="hereismari/hereismari.github.io"
+        data-repo-id="R_kgDONsbxMw"
+        data-category="General"
+        data-category-id="DIC_kwDONsbxM84Cm5Rz"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
